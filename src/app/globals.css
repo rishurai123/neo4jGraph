@@ -24,3 +24,76 @@ body {
   color: var(--foreground);
   font-family: Arial, Helvetica, sans-serif;
 }
+/* === Graph Styling === */
+
+/* .cy-node.movie {
+  shape: roundrectangle;
+  background-color: #38bdf8;
+  color: #ffffff;
+  font-size: 14px;
+  font-weight: bold;
+  text-valign: center;
+  text-halign: center;
+  text-outline-width: 1px;
+  text-outline-color: #38bdf8;
+  padding: 10px;
+  border-width: 2px;
+  border-color: #0ea5e9;
+  shadow-blur: 8px;
+  shadow-color: #0ea5e9;
+  shadow-offset-x: 2px;
+  shadow-offset-y: 2px;
+  transition-property: background-color, shadow-color;
+  transition-duration: 0.2s;
+}
+
+.cy-node.movie:hover {
+  background-color: #0ea5e9;
+  shadow-color: #38bdf8;
+  transform: scale(1.1);
+}
+
+.cy-node.genre {
+  shape: ellipse;
+  background-color: #fbbf24;
+  color: #000000;
+  font-size: 13px;
+  font-weight: bold;
+  text-valign: center;
+  text-halign: center;
+  text-outline-width: 1px;
+  text-outline-color: #fbbf24;
+  padding: 10px;
+  border-width: 2px;
+  border-color: #facc15;
+  shadow-blur: 6px;
+  shadow-color: #facc15;
+  shadow-offset-x: 1px;
+  shadow-offset-y: 1px;
+}
+
+.cy-node.genre:hover {
+  background-color: #fde68a;
+  shadow-color: #fbbf24;
+  transform: scale(1.1);
+}
+
+.cy-edge {
+  width: 2px;
+  line-color: #94a3b8;
+  target-arrow-shape: triangle;
+  target-arrow-color: #94a3b8;
+  curve-style: bezier;
+  font-size: 10px;
+  color: #cbd5e1;
+  text-background-color: #1e293b;
+  text-background-opacity: 1;
+  text-background-shape: roundrectangle;
+  padding: 2px;
+} */
+body {
+  margin: 0;
+  font-family: 'Inter', sans-serif;
+  background-color: #0f172a;
+  color: white;
+}
